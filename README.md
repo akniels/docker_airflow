@@ -4,4 +4,4 @@ I am currently in the process or learning airflow and docker. This repository sh
 
 # Acknowldegements
 
-(A Complete Hands-On introduction to Apache Airflow by Marc Lamberti)[https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/]
+[A Complete Hands-On introduction to Apache Airflow by Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
